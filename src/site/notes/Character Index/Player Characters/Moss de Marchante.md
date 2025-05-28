@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/character-index/player-characters/moss-de-marchante/","tags":["Avalon","PC"]}
 ---
 
-````
+![moss_de_marchante.Token.webp](/img/user/moss_de_marchante.Token.webp)
 ```pf2e-stats
 # Moss de Marchante
 ## Level 1
@@ -11,10 +11,10 @@
 
 ==SMALL== ==HUMANIOD== ==MOOGLE==
 
-**Ancestry**
-**Heritage**
-**Class**
-**Background**
+**Ancestry** Moogle
+**Heritage** Mog
+**Class** Alchemist
+**Background** Charlatan
 
 ---
 
@@ -25,4 +25,3 @@ A small round white fuzzy lump with a green antennae.
 "Here's a taste of your own medicine, Kupow!"; "A poor choice, Kupo."
 
 ```
-````
