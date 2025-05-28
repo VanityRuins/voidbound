@@ -3,7 +3,6 @@
 ---
 
 ![moss_de_marchante.Token.webp](/img/user/moss_de_marchante.Token.webp)
-```pf2e-stats
 # Moss de Marchante
 ## Level 1
 
@@ -23,5 +22,3 @@ A small round white fuzzy lump with a green antennae.
 
 **Catchphrase**
 "Here's a taste of your own medicine, Kupow!"; "A poor choice, Kupo."
-
-```
