@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/voidbound/character-index/player-characters/keranos-storm-god/","tags":["Avalon","PC"]}
 ---
 
+
+
+
 # Keranos, Storm God
 ![claude_character.Token.webp](/img/user/Voidbound%20token%20images/claude_character.Token.webp)
 ## Level 1
@@ -586,4 +589,17 @@ You swing your massive weapon, creating a wave of sonic vibrations that topples 
 
 )
   
+```RpgManager4
+id: 
+  type: "playercharacter"
+  campaign: "Voidbound Isle/Voidbound Isle.md"
+tasks: 
+  - id: "4f8bf909-693f-4b54-ad89-c8875d1e5d91"
+    priority: 1
+    name: "Complete Player Character"
+    description: "Complete Player Character Keranos, Storm God"
+    type: "creation"
+    status: "proposed"
+```
 
+[[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]

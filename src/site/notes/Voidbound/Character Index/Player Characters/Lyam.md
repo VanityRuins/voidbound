@@ -3,18 +3,7 @@
 ---
 
 
-```RpgManager4
-id: 
-  type: "playercharacter"
-  campaign: "Voidbound Isle/Voidbound Isle.md"
-tasks: 
-  - id: "729ac013-de3b-460b-a720-099c19271cc3"
-    priority: 1
-    name: "Complete Player Character"
-    description: "Complete Player Character Lyam"
-    type: "creation"
-    status: "proposed"
-```
+
 
 ![lyam.Token 1.webp](/img/user/Voidbound/Character%20Index/Player%20Characters/lyam.Token%201.webp)
 # Lyam
@@ -305,6 +294,19 @@ Your hands become infused with powerful vitality, capable of healing a living cr
 
 
 )
-  
+
+```RpgManager4
+id: 
+  type: "playercharacter"
+  campaign: "Voidbound Isle/Voidbound Isle.md"
+tasks: 
+  - id: "729ac013-de3b-460b-a720-099c19271cc3"
+    priority: 1
+    name: "Complete Player Character"
+    description: "Complete Player Character Lyam"
+    type: "creation"
+    status: "proposed"
+```
 
 [[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
+

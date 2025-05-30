@@ -3,18 +3,6 @@
 ---
 
 
-```RpgManager4
-id: 
-  type: "playercharacter"
-  campaign: "Voidbound Isle/Voidbound Isle.md"
-tasks: 
-  - id: "20eac4fc-add2-4c2e-a6a3-5175627d3515"
-    priority: 1
-    name: "Complete Player Character"
-    description: "Complete Player Character Moss de Marchante"
-    type: "creation"
-    status: "proposed"
-```
 
 ![Voidbound/Character Index/Player Characters/moss_de_marchante.Token.webp](/img/user/Voidbound/Character%20Index/Player%20Characters/moss_de_marchante.Token.webp)
 # Moss de Marchante
@@ -967,6 +955,19 @@ Upon smashing this ball on the ground, you instantly create a screen of thick, o
 
 
   
-
+```RpgManager4
+id: 
+  type: "playercharacter"
+  campaign: "Voidbound Isle/Voidbound Isle.md"
+tasks: 
+  - id: "20eac4fc-add2-4c2e-a6a3-5175627d3515"
+    priority: 1
+    name: "Complete Player Character"
+    description: "Complete Player Character Moss de Marchante"
+    type: "creation"
+    status: "proposed"
+```
 
 [[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
+
+

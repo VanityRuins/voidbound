@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/voidbound/character-index/player-characters/kiri-to-zhwan/","tags":["Avalon","PC"]}
 ---
 
+
+
+
 # Kiri'to Zhwan
 ![patty_character.Token.webp](/img/user/Voidbound%20token%20images/patty_character.Token.webp)
 ## Level 1
@@ -528,4 +531,17 @@ You call upon the Void to harm life force. The target takes 2d4 void damage with
 
 )
   
+```RpgManager4
+id: 
+  type: "playercharacter"
+  campaign: "Voidbound Isle/Voidbound Isle.md"
+tasks: 
+  - id: "deadf9d8-31a1-4784-b14a-3cb1367ff419"
+    priority: 1
+    name: "Complete Player Character"
+    description: "Complete Player Character Kiri'to Zhwan"
+    type: "creation"
+    status: "proposed"
+```
 
+[[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
