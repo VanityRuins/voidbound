@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/huknar-goring/","title":"Huknar Goring","tags":["JournalEntryPage"]}
+---
+
+
+
+
+
+# Huknar Goring
+![huknar_goring.Token.webp](/img/user/Voidbound%20token%20images/huknar_goring.Token.webp)
+
+Huknar Goring is a scarred and battered hobgoblin. With his eyepatch, his peg leg, the mechanical claw replacing his left hand, and his impressive collection of scars, it is clear that he has seen his share of trouble. Many of his teeth have been replaced; his grin now glitters in a variety of metallic colors. His demeanor is no less sinister than his appearance; he has a habit of leering at customers with a menacing sneer. In spite of all this, Goring keeps things professional and avoids trouble. He can’t help his appearance, nor his checkered past, but these days he’s trying to turn his life around and be a better hobgoblin. He has made a promise to his daughter to put an end to his life of violence – the reason being that he’s now a grandfather. He may have put his days of bloodshed behind him, but he still might have the highest Intimidation bonus in the City.
+
+```RpgManager4
+id: 
+  type: "nonplayercharacter"
+  campaign: "Voidbound Isle/Voidbound Isle.md"
+tasks: 
+  - id: "60371e57-fdae-4885-ab1f-3f14a865654d"
+    priority: 1
+    name: "Complete Non-Player Character"
+    description: "Complete Non-Player Character Huknar Goring"
+    type: "creation"
+    status: "proposed"
+```
+[[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
