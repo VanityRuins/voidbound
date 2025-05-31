@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/voidbound/character-index/player-characters/baccara-helleborus/"}
+{"dg-publish":true,"permalink":"/voidbound/character-index/player-characters/baccara-helleborus/","tags":["Avalon","PC"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/voidbound/character-index/player-characters/en-flambe/"}
+{"dg-publish":true,"permalink":"/voidbound/character-index/player-characters/en-flambe/","tags":["Avalon","PC"]}
 ---
 
 
