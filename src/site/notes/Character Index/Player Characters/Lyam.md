@@ -306,7 +306,26 @@ tasks:
     description: "Complete Player Character Lyam"
     type: "creation"
     status: "proposed"
+relationships: 
+  - type: "bidirectional"
+    path: "Character Index/Player Characters/Moss de Marchante.md"
+  - type: "bidirectional"
+    path: "Character Index/Player Characters/Lyam.md"
+  - type: "bidirectional"
+    path: "Character Index/Player Characters/Kiri'to Zhwan.md"
+  - type: "bidirectional"
+    path: "Character Index/Player Characters/Keranos, Storm God.md"
+  - type: "bidirectional"
+    path: "Character Index/Player Characters/En-Flambé.md"
+  - type: "bidirectional"
+    path: "Character Index/Player Characters/Baccara Helleborus.md"
 ```
 
 [[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
+[[Character Index/Player Characters/Moss de Marchante\|Character Index/Player Characters/Moss de Marchante.md]]
+
+[[Character Index/Player Characters/Kiri'to Zhwan\|Character Index/Player Characters/Kiri'to Zhwan.md]]
+[[Character Index/Player Characters/Keranos, Storm God\|Character Index/Player Characters/Keranos, Storm God.md]]
+[[Character Index/Player Characters/En-Flambé\|Character Index/Player Characters/En-Flambé.md]]
+[[Character Index/Player Characters/Baccara Helleborus\|Character Index/Player Characters/Baccara Helleborus.md]]
 

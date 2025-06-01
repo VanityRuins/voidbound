@@ -24,10 +24,10 @@ tasks:
     status: "proposed"
 relationships: 
   - type: "bidirectional"
-    path: "Voidbound Isle/Leshy.md"
+    path: "Voidbound Isle/Factions/Leshy.md"
   - type: "bidirectional"
-    path: "Voidbound Isle/1D Annunciation.md"
-```
+    path: "Voidbound Isle/locations/1D Annunciatio[[Voidbound Isle/locations/1D Annunciation\|1D Annunciation]]tion.md|]]
 [[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
-[[Voidbound Isle/Leshy\|Voidbound Isle/Leshy.md]]
-[[Voidbound Isle/1D Annunciation\|Voidbound Isle/1D Annunciation.md]]
+
+[[Voidbound Isle/Factions/Leshy\|Voidbound Isle/Factions/Leshy.md]]
+[[Voidbound Isle/Leshy Village.md\|Voidbound Isle/Leshy Village.md]]

@@ -3,9 +3,6 @@
 ---
 
 
-
-
-
 # Brittany Spines & Cactus Jack
 ![britney_spines.Token.webp](/img/user/Voidbound%20token%20images/britney_spines.Token.webp)![cactus_jack.Token.webp](/img/user/Voidbound%20token%20images/cactus_jack.Token.webp)
 
@@ -18,18 +15,15 @@ id:
   type: "nonplayercharacter"
   campaign: "Voidbound Isle/Voidbound Isle.md"
 tasks: 
-  - id: "97d42fb6-1470-46d2-bd5f-f4f3f9168322"
+  - id: "a61f7b5a-b1f2-47af-9ce3-74942705456d"
     priority: 1
     name: "Complete Non-Player Character"
     description: "Complete Non-Player Character Brittany Spines & Cactus Jack"
     type: "creation"
     status: "proposed"
-relationships: 
-  - type: "bidirectional"
-    path: "Voidbound Isle/Leshy.md"
-  - type: "bidirectional"
-    path: "Voidbound Isle/1D Annunciation.md"
 ```
+
 [[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
-[[Voidbound Isle/Leshy\|Voidbound Isle/Leshy.md]]
-[[Voidbound Isle/1D Annunciation\|Voidbound Isle/1D Annunciation.md]]
+
+[[Voidbound Isle/Factions/Leshy\|Voidbound Isle/Factions/Leshy.md]]
+[[Voidbound Isle/Leshy Village.md\|Voidbound Isle/Leshy Village.md]]
