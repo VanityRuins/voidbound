@@ -4,6 +4,8 @@
 
 # Captain Fairwell
 ![captain_emaliza_fairwell.Token.webp](/img/user/Voidbound%20token%20images/captain_emaliza_fairwell.Token.webp)
+Faction: "[[Voidbound Isle/Factions/Avalon\|Avalon]]"
+Works for: "[[Character Index/Avalon NPCs/Admiral Psalt\|Admiral Psalt]]"
 
 Captain Emaliza Fairwell is the commander of the convoy. She is energetic, assertive, and cheerful. She is always on the move, and her readiness to leap into any kind of work that needs to be done, regardless of her station, has earned her the respect of those under her.  
   
