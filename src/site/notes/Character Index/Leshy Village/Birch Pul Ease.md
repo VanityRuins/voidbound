@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/character-index/leshy-village/birch-pul-ease/","title":"Birch Pul Ease","tags":["JournalEntryPage"]}
+---
+
+
+# Birch Pul Ease
+![birch_pul_ease.Token.webp](/img/user/Voidbound%20token%20images/birch_pul_ease.Token.webp)
+
+Root leshies are a breed of leshy particularly known for their intelligence, cleverness, and hardiness. Their roots nourish them even when they lack sunlight, and they are difficult to upend.
