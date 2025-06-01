@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/leshy-village/maria-von-flytrapp/","title":"Maria Von Flytrapp","tags":["JournalEntryPage"]}
+{"dg-publish":true,"permalink":"/character-index/leshy-village/maria-von-flytrapp/","title":"Maria Von Flytrapp","tags":["JournalEntryPage","Leshy","NPC"]}
 ---
+
+
+
 
 
 # Maria Von Flytrapp
@@ -13,3 +16,24 @@ Cantankerous flytrap leshys represent the harsh and seemingly cruel aspects of t
 Unlike most of their kind, flytrap leshys eat flesh and are not picky about the kind of meat that they consume.
 
 They particularly savor insects, and one of the few ways to placate a flytrap leshy is to offer it a rare or unusual insect to consume.
+
+```RpgManager4
+id: 
+  type: "nonplayercharacter"
+  campaign: "Voidbound Isle/Voidbound Isle.md"
+tasks: 
+  - id: "3ac552b3-7539-4f1d-9d1d-882cf9943b0b"
+    priority: 1
+    name: "Complete Non-Player Character"
+    description: "Complete Non-Player Character Maria Von Flytrapp"
+    type: "creation"
+    status: "proposed"
+relationships: 
+  - type: "bidirectional"
+    path: "Voidbound Isle/Leshy.md"
+  - type: "bidirectional"
+    path: "Voidbound Isle/1D Annunciation.md"
+```
+[[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
+[[Voidbound Isle/Leshy\|Voidbound Isle/Leshy.md]]
+[[Voidbound Isle/1D Annunciation\|Voidbound Isle/1D Annunciation.md]]
