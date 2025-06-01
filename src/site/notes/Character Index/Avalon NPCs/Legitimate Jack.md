@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/legitimate-jack/","title":"Legitimate Jack","tags":["JournalEntryPage"]}
+{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/legitimate-jack/","title":"Legitimate Jack","tags":["JournalEntryPage"],"created":"2025-05-30T19:47:50.000-05:00"}
 ---
 
 # Legitimate Jack

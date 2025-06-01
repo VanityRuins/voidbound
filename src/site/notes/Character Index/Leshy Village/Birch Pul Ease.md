@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/leshy-village/birch-pul-ease/","title":"Birch Pul Ease","tags":["JournalEntryPage","Leshy","NPC"]}
+{"dg-publish":true,"permalink":"/character-index/leshy-village/birch-pul-ease/","title":"Birch Pul Ease","tags":["JournalEntryPage","Leshy","NPC"],"created":"2025-05-30T19:47:49.000-05:00"}
 ---
 
 # Birch Pul Ease

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/parson-grimm/","title":"Parson Grimm","tags":["JournalEntryPage"]}
+{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/parson-grimm/","title":"Parson Grimm","tags":["JournalEntryPage"],"created":"2025-05-30T19:47:49.000-05:00"}
 ---
 
 # Parson Grimm

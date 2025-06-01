@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal-notes/moss-de-merchant-a-memoir/"}
+{"dg-publish":true,"permalink":"/journal-notes/moss-de-merchant-a-memoir/","created":"2025-05-27T18:54:47.284-05:00"}
 ---
 
 # Crash landing

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/merisa-frangelico/","title":"Merisa Frangelico","tags":["JournalEntryPage"]}
+{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/merisa-frangelico/","title":"Merisa Frangelico","tags":["JournalEntryPage"],"created":"2025-05-30T19:47:50.000-05:00"}
 ---
 
 # Merisa Frangelico

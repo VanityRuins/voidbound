@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/player-characters/kiri-to-zhwan/","tags":["Avalon","PC"]}
+{"dg-publish":true,"permalink":"/character-index/player-characters/kiri-to-zhwan/","tags":["Avalon","PC"],"created":"2025-05-27T20:11:36.102-05:00"}
 ---
 
 # Kiri'to Zhwan
 ![patty_character.Token.webp](/img/user/Voidbound%20token%20images/patty_character.Token.webp)
 Player Character along with [[Character Index/Player Characters/Baccara Helleborus\|Baccara Helleborus]] [[Character Index/Player Characters/En-Flambé\|En-Flambé]] 
 [[Character Index/Player Characters/Keranos, Storm God\|Keranos, Storm God]]  [[Character Index/Player Characters/Lyam\|Lyam]] [[Character Index/Player Characters/Moss de Marchante\|Moss de Marchante]]
+
+Faction: "[[Voidbound Isle/Factions/Avalon\|Avalon]]"
+Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 ## Level 1
 
 ---

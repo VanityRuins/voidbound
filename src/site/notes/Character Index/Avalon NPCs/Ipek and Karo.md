@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/ipek-and-karo/","title":"Ipek and Karo","tags":["JournalEntryPage"]}
+{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/ipek-and-karo/","title":"Ipek and Karo","tags":["JournalEntryPage"],"created":"2025-05-30T19:47:50.000-05:00"}
 ---
 
 # Ipek and Karo

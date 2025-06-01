@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/leshy-village/elvis-parsley-and-rosemarianne-thyme/","title":"Elvis Parsley & Rosemarianne Thyme","tags":["JournalEntryPage","Leshy","NPC"]}
+{"dg-publish":true,"permalink":"/character-index/leshy-village/elvis-parsley-and-rosemarianne-thyme/","title":"Elvis Parsley & Rosemarianne Thyme","tags":["JournalEntryPage","Leshy","NPC"],"created":"2025-05-30T19:47:50.000-05:00"}
 ---
 
 # Elvis Parsley & Rosemarianne Thyme

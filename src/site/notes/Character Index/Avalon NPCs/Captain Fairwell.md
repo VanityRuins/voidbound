@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/captain-fairwell/","title":"Captain Fairwell","tags":["Avalon","NPC"]}
+{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/captain-fairwell/","title":"Captain Fairwell","tags":["Avalon","NPC"],"created":"2025-05-30T19:47:49.000-05:00"}
 ---
 
 # Captain Fairwell

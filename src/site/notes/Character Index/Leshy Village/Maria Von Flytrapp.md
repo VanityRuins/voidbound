@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/leshy-village/maria-von-flytrapp/","title":"Maria Von Flytrapp","tags":["JournalEntryPage","Leshy","NPC"]}
+{"dg-publish":true,"permalink":"/character-index/leshy-village/maria-von-flytrapp/","title":"Maria Von Flytrapp","tags":["JournalEntryPage","Leshy","NPC"],"created":"2025-05-30T19:47:49.000-05:00"}
 ---
 
 # Maria Von Flytrapp

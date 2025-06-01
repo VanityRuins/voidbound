@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/player-characters/en-flambe/","tags":["Avalon","PC"]}
+{"dg-publish":true,"permalink":"/character-index/player-characters/en-flambe/","tags":["Avalon","PC"],"created":"2025-05-27T20:10:56.000-05:00"}
 ---
 
 # En-Flambé
@@ -7,6 +7,9 @@
 ![en_flamb_.Token.webp](/img/user/Voidbound%20token%20images/en_flamb_.Token.webp)
 Player Character along with [[Character Index/Player Characters/Baccara Helleborus\|Baccara Helleborus]] 
 [[Character Index/Player Characters/Keranos, Storm God\|Keranos, Storm God]] [[Character Index/Player Characters/Kiri'to Zhwan\|Kiri'to Zhwan]] [[Character Index/Player Characters/Lyam\|Lyam]] [[Character Index/Player Characters/Moss de Marchante\|Moss de Marchante]]
+
+Faction: "[[Voidbound Isle/Factions/Avalon\|Avalon]]"
+Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 ## Level 1
 
 ---

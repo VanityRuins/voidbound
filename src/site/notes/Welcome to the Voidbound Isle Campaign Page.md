@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-the-voidbound-isle-campaign-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-the-voidbound-isle-campaign-page/","tags":["gardenEntry"],"created":"2025-05-27T18:22:26.770-05:00"}
 ---
 
 ![453263.jpg](/img/user/Voidbound/453263.jpg)

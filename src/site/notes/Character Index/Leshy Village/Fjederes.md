@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/leshy-village/fjederes/","title":"Fjederes","tags":["JournalEntryPage","Leshy","NPC"]}
+{"dg-publish":true,"permalink":"/character-index/leshy-village/fjederes/","title":"Fjederes","tags":["JournalEntryPage","Leshy","NPC"],"created":"2025-05-30T19:47:50.000-05:00"}
 ---
 
 # Fjederes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/eissfeldt-and-gjendes/","title":"Eissfeldt and Gjendes","tags":["JournalEntryPage"]}
+{"dg-publish":true,"permalink":"/character-index/avalon-np-cs/eissfeldt-and-gjendes/","title":"Eissfeldt and Gjendes","tags":["JournalEntryPage"],"created":"2025-05-30T19:47:50.000-05:00"}
 ---
 
 # Eissfeldt and Gjendes
