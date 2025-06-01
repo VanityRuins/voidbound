@@ -2,25 +2,7 @@
 {"dg-publish":true,"permalink":"/character-index/avalon-np-cs/eissfeldt-and-gjendes/","title":"Eissfeldt and Gjendes","tags":["JournalEntryPage"]}
 ---
 
-
-
-
-
 # Eissfeldt and Gjendes
 ![eissfeldt.Token.webp](/img/user/Voidbound%20token%20images/eissfeldt.Token.webp)![gjendes.Token.webp](/img/user/Voidbound%20token%20images/gjendes.Token.webp)
 
 Eissfeldt and his wife Gjendes are dwarves of the most stereotypical variety. They enjoy beer, mining, metalworking, and maintaining their beards. Their near-constant bickering can take their customers by surprise, but this is just how they flirt. Their tendency to shout at everyone all the time is due to their both being half-deaf from hammering metal their whole lives. This married couple is gregarious, hospitable, and tough as the iron they work with.
-
-```RpgManager4
-id: 
-  type: "nonplayercharacter"
-  campaign: "Voidbound Isle/Voidbound Isle.md"
-tasks: 
-  - id: "279b5004-389f-45eb-a4ae-0ed2a0fb3b9e"
-    priority: 1
-    name: "Complete Non-Player Character"
-    description: "Complete Non-Player Character Eissfeldt and Gjendes"
-    type: "creation"
-    status: "proposed"
-```
-[[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]

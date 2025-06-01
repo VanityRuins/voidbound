@@ -2,11 +2,8 @@
 {"dg-publish":true,"permalink":"/character-index/player-characters/lyam/","tags":["Avalon","PC"]}
 ---
 
-
-
-
-![lyam.Token 1.webp](/img/user/Character%20Index/Player%20Characters/lyam.Token%201.webp)
 # Lyam
+![lyam.Token 1.webp](/img/user/Character%20Index/Player%20Characters/lyam.Token%201.webp)
 ## Level 1
 
 ---

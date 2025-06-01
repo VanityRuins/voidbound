@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/character-index/player-characters/moss-de-marchante/","tags":["Avalon","PC"]}
 ---
 
-
-
-![Character Index/Player Characters/moss_de_marchante.Token.webp](/img/user/Character%20Index/Player%20Characters/moss_de_marchante.Token.webp)
 # Moss de Marchante
+![Voidbound token images/moss_de_marchante.Token.webp](/img/user/Voidbound%20token%20images/moss_de_marchante.Token.webp)
 ## Level 1
 
 ---
@@ -781,11 +779,6 @@ Numbing tonic makes it easier to push through the pain of battle and shrug off o
 
 @UUID[Compendium.pf2e.equipment-effects.Item.rmVyC6Xb8O9WPvZz]{Effect: Numbing Tonic}
 
-
-
-  
-
-
 # Numbing Tonic (Lesser) ((+Numbing Tonic (Lesser) ))
 ## formula 5
 -
@@ -951,23 +944,4 @@ Upon smashing this ball on the ground, you instantly create a screen of thick, o
 
 -
 Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a @Template[burst|distance:5] centered on one corner of your space. All creatures within that area are *Concealed*, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
-
-
-
-  
-```RpgManager4
-id: 
-  type: "playercharacter"
-  campaign: "Voidbound Isle/Voidbound Isle.md"
-tasks: 
-  - id: "20eac4fc-add2-4c2e-a6a3-5175627d3515"
-    priority: 1
-    name: "Complete Player Character"
-    description: "Complete Player Character Moss de Marchante"
-    type: "creation"
-    status: "proposed"
-```
-
-[[Voidbound Isle/Voidbound Isle\|Voidbound Isle/Voidbound Isle.md]]
-
 
