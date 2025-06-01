@@ -4,6 +4,8 @@
 
 # Keranos, Storm God
 ![claude_character.Token.webp](/img/user/Voidbound%20token%20images/claude_character.Token.webp)
+Player Character along with [[Character Index/Player Characters/Baccara Helleborus\|Baccara Helleborus]] [[Character Index/Player Characters/En-Flambé\|En-Flambé]] 
+ [[Character Index/Player Characters/Kiri'to Zhwan\|Kiri'to Zhwan]] [[Character Index/Player Characters/Lyam\|Lyam]] [[Character Index/Player Characters/Moss de Marchante\|Moss de Marchante]]
 ## Level 1
 
 ---

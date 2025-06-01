@@ -5,6 +5,8 @@
 # Baccara Helleborus
 
 ![baccara_hellebore.Token.webp](/img/user/Voidbound%20token%20images/baccara_hellebore.Token.webp)
+Player Character along with  [[Character Index/Player Characters/En-Flambé\|En-Flambé]] 
+[[Character Index/Player Characters/Keranos, Storm God\|Keranos, Storm God]] [[Character Index/Player Characters/Kiri'to Zhwan\|Kiri'to Zhwan]] [[Character Index/Player Characters/Lyam\|Lyam]] [[Character Index/Player Characters/Moss de Marchante\|Moss de Marchante]]
 ## Level 1
 
 ---

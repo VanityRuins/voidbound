@@ -4,6 +4,8 @@
 
 # Moss de Marchante
 ![Voidbound token images/moss_de_marchante.Token.webp](/img/user/Voidbound%20token%20images/moss_de_marchante.Token.webp)
+Player Character along with [[Character Index/Player Characters/Baccara Helleborus\|Baccara Helleborus]] [[Character Index/Player Characters/En-Flambé\|En-Flambé]] 
+[[Character Index/Player Characters/Keranos, Storm God\|Keranos, Storm God]] [[Character Index/Player Characters/Kiri'to Zhwan\|Kiri'to Zhwan]] [[Character Index/Player Characters/Lyam\|Lyam]] 
 ## Level 1
 
 ---

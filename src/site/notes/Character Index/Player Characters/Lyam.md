@@ -4,6 +4,8 @@
 
 # Lyam
 ![lyam.Token 1.webp](/img/user/Character%20Index/Player%20Characters/lyam.Token%201.webp)
+Player Character along with [[Character Index/Player Characters/Baccara Helleborus\|Baccara Helleborus]] [[Character Index/Player Characters/En-Flambé\|En-Flambé]] 
+[[Character Index/Player Characters/Keranos, Storm God\|Keranos, Storm God]] [[Character Index/Player Characters/Kiri'to Zhwan\|Kiri'to Zhwan]]  [[Character Index/Player Characters/Moss de Marchante\|Moss de Marchante]]
 ## Level 1
 
 ---
