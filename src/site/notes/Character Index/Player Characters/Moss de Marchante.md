@@ -11,29 +11,29 @@ Faction: "[[Voidbound Isle/Factions/Avalon\|Avalon]]"
 Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 
 # Moss de Marchante
-
-**Ancestry**: [Moogle](https://2e.aonprd.com/Ancestries.aspx) *(Homebrew)*  
+**Ancestry**: [Moogle](http://ff2e.wikidot.com/moogle) *(Homebrew)*  
 **Heritage**: Mog *(Homebrew)*  
-**Background**: [Charlatan](https://2e.aonprd.com/Backgrounds.aspx?ID=34)  
-**Class**: [Alchemist](https://2e.aonprd.com/Classes.aspx?ID=1)  
+**Background**: [Charlatan](https://2e.aonprd.com/NPCs.aspx?ID=3428)  
+**Class**: [Alchemist](https://2e.aonprd.com/Classes.aspx?ID=56)  
 **Level**: 1 (XP: 330 / 1000)  
 **Gender**: Male - They/He  
 **Height**: 3'0"  
 **Weight**: 20 lbs  
+**Age**: ???
 **Nationality**: Eorzean *(Homebrew)*
 
 ---
 
 ## 🧬 Attributes
 
-| Ability       | Modifier |
-|---------------|----------|
-| Strength      | -1       |
-| Dexterity     | +3       |
-| Constitution  | +0       |
-| Intelligence  | +4       |
-| Wisdom        | +1       |
-| Charisma      | +2       |
+| Ability      | Modifier |
+| ------------ | -------- |
+| Strength     | -1       |
+| Dexterity    | +3       |
+| Constitution | +0       |
+| Intelligence | +4       |
+| Wisdom       | +1       |
+| Charisma     | +2       |
 
 ---
 
@@ -47,35 +47,36 @@ Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 - **Reflex**: +8  
 - **Will**: +4  
 - **Armor Proficiencies**: Unarmored (T), Light (T), Medium (T), Heavy (T)
+- **Perception** +4; Low-Light Vision
 
 ---
 
-## 🧠 Skills
+## 🎯 Skills
 
-| Skill        | Bonus | Notes        |
-|--------------|-------|--------------|
-| Perception   | +4    |              |
-| Acrobatics   | +5    |              |
-| Arcana       | +7    |              |
-| Athletics    | -2    |              |
-| Crafting     | +7    |              |
-| Deception    | +5    |              |
-| Diplomacy    | +5    |              |
-| Intimidation | +5    |              |
-| Lore         | —     | Not listed   |
+| Skill        | Bonus | Notes                                                                       |
+| ------------ | ----- | --------------------------------------------------------------------------- |
+| Perception   | +4    |                                                                             |
+| Acrobatics   | +5    |                                                                             |
+| Arcana       | +7    |                                                                             |
+| Athletics    | -2    |                                                                             |
+| Crafting     | +7    |                                                                             |
+| Deception    | +5    |                                                                             |
+| Diplomacy    | +5    |                                                                             |
+| Intimidation | +5    |                                                                             |
+| Lore         | —     | Not listed                                                                  |
 | Medicine     | +7    | [Chirurgeon](https://2e.aonprd.com/AlchemistResearchFields.aspx?ID=2) bonus |
-| Nature       | +1    |              |
-| Occultism    | +4    |              |
-| Performance  | +5    |              |
-| Religion     | +1    |              |
-| Society      | +4    |              |
-| Stealth      | +5    |              |
-| Survival     | +4    |              |
-| Thievery     | +5    |              |
+| Nature       | +1    |                                                                             |
+| Occultism    | +4    |                                                                             |
+| Performance  | +5    |                                                                             |
+| Religion     | +1    |                                                                             |
+| Society      | +4    |                                                                             |
+| Stealth      | +5    |                                                                             |
+| Survival     | +4    |                                                                             |
+| Thievery     | +5    |                                                                             |
 
 ---
 
-## 🏃‍♂️ Speed & Languages
+## 🗣️ Languages & Movement
 
 - **Speed**: 20 feet  
 - **Languages**: anadi, arboreal, draconic, elven, fey, common, moogle
@@ -84,39 +85,39 @@ Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 
 ## ✨ Feats & Features
 
-- **Ancestry Feat**: *Moogle Magic* – [Light](https://2e.aonprd.com/Spells.aspx?ID=171), [Ghost Sound](https://2e.aonprd.com/Spells.aspx?ID=146), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=263) (if Mog)
+- **Ancestry Feat**: *Moogle Magic* – [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Ghost Sound](https://2e.aonprd.com/Spells.aspx?ID=1528), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639) (if Mog)
 - **Heritage**: Mog – Diplomacy trained, bonus while performing *(Homebrew trait)*
-- **Background Feat**: [Charming Liar](https://2e.aonprd.com/Feats.aspx?ID=45) – On critical Lie, improve attitude once per conversation
-- **Class Feature**: [Alchemical Familiar](https://2e.aonprd.com/Familiars.aspx) – Gains Construct familiar
+- **Background Feat**: [Charming Liar](https://2e.aonprd.com/Feats.aspx?ID=5132) – On critical Lie, improve attitude once per conversation
+- **Class Feature**: [Alchemical Familiar](https://2e.aonprd.com/Feats.aspx?ID=5760) – Gains Construct familiar
 
 ---
 
-## 🧪 Spells
+## 🪄 Spells
 
 **Innate Primal Cantrips**:  
-- [Light](https://2e.aonprd.com/Spells.aspx?ID=171)  
-- [Ghost Sound](https://2e.aonprd.com/Spells.aspx?ID=146)  
-- [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=263)
+- [Light](https://2e.aonprd.com/Spells.aspx?ID=1585)
+- [Ghost Sound](https://2e.aonprd.com/Spells.aspx?ID=1528)
+- [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639)
 
 ---
 
-## 🎒 Inventory
+## 📦 Inventory
 
 ### Held Items
-- 6x [Versatile Vial](https://2e.aonprd.com/Items.aspx?ID=1762) (Bulk: 0.1)
+- 6x [Versatile Vial](https://2e.aonprd.com/Classes.aspx?ID=56) (Bulk: 0.1)
 
 ### Consumables
-- 3x [Elixir of Life (Minor)](https://2e.aonprd.com/Equipment.aspx?ID=246) (Bulk: 0.1)  
-- [Graveroot](https://2e.aonprd.com/Equipment.aspx?ID=1185) (Bulk: 0.1)  
-- 5x [Pellet Magazine](https://2e.aonprd.com/Weapons.aspx?ID=291) (8 Pellets) (Bulk: 0.1)  
+- 3x [Elixir of Life (Minor)](https://2e.aonprd.com/Equipment.aspx?ID=3308) (Bulk: 0.1)  
+- [Graveroot](https://2e.aonprd.com/Equipment.aspx?ID=3336) (Bulk: 0.1)  
+- 5x [Pellet Magazine](https://2e.aonprd.com/Weapons.aspx?ID=209) (8 Pellets) (Bulk: 0.1)  
 - Void Shard (Black) *(Homebrew)* (Bulk: 0.1)
 
 ### Worn Items
-- [Air Repeater](https://2e.aonprd.com/Weapons.aspx?ID=289) (Invested Bulk: 1)  
-- [Dread Ampoule (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=1056) (Invested Bulk: 0.1)  
-- [Formula Book](https://2e.aonprd.com/Items.aspx?ID=84) (Blank) (Invested Bulk: 0.1)  
-- [Leaf Weave](https://2e.aonprd.com/Armor.aspx?ID=37) (Invested Bulk: 0.1)  
-- [Torch](https://2e.aonprd.com/Equipment.aspx?ID=26) (Invested Bulk: 0.1)
+- [Air Repeater](https://2e.aonprd.com/Weapons.aspx?ID=188) (Invested Bulk: 1)  
+- [Dread Ampoule (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=3292) (Invested Bulk: 0.1)  
+- [Formula Book](https://2e.aonprd.com/Equipment.aspx?ID=2724) (Blank) (Invested Bulk: 0.1)  
+- [Leaf Weave](https://2e.aonprd.com/Armor.aspx?ID=28) (Invested Bulk: 0.1)  
+- [Torch](https://2e.aonprd.com/Equipment.aspx?ID=2760) (Invested Bulk: 0.1)
 
 ---
 
@@ -189,7 +190,7 @@ Moss knows the following formulas:
 
 ---
 
-## 🧍 Personality
+## 🎭 Personality
 
 - **Appearance**: A small round white fuzzy lump with a green antennae.  
 - **Attitude**: Flippant, Contrary, Compassionate, Scheming  
