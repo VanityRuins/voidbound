@@ -11,4 +11,8 @@ Faction: "[[Voidbound Isle/Factions/Avalon\|Avalon]]"
 Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 
 # Moss de Marchante
-![[Moss de Marchante - pf2e-remastered.pdf]]
+
+```
+<iframe src="https://github.com/VanityRuins/voidbound/blob/main/src/site/notes/Player%20Characters/Moss%20de%20Marchante%20-%20pf2e-remastered.pdf" width="700" height="1000"></iframe>
+```
+
