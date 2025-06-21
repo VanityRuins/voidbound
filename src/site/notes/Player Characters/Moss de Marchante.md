@@ -12,4 +12,4 @@ Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 
 # Moss de Marchante
 
-<iframe src="https://app.box.com/embed/s/oosbzup4kp1hhmhkc3l3e3pqswc6tzyq?sortColumn=date" width="600" height="800" frameBorder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://app.box.com/embed/s/oosbzup4kp1hhmhkc3l3e3pqswc6tzyq?sortColumn=date" width="80%" height="800" frameBorder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
