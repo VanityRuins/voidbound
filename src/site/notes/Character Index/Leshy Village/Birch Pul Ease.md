@@ -4,5 +4,5 @@
 
 # Birch Pul Ease
 ![birch_pul_ease.Token.webp](/img/user/Assets/Voidbound%20token%20images/birch_pul_ease.Token.webp)
-
+Faction: [[Factions/Leshys of Annunciation\|Leshys of Annunciation]]
 Root leshies are a breed of leshy particularly known for their intelligence, cleverness, and hardiness. Their roots nourish them even when they lack sunlight, and they are difficult to upend.

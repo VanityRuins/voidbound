@@ -4,5 +4,5 @@
 
 # Funguson
 ![funguson.Token.webp](/img/user/Assets/Voidbound%20token%20images/funguson.Token.webp)
-
+Faction: [[Factions/Leshys of Annunciation\|Leshys of Annunciation]]
 Fungus leshys are spawned from realms of underground wonder or the rotting places of the natural world. They perform an important service in the lands they keep, encouraging the growth of fungi, transporting rotting material to fertilize other plants, and making the most use of growth that has died off. Fungus leshys are most active at night and spend the day in the forms of plump fungi amid their ripest compost heaps or fungal glens.
