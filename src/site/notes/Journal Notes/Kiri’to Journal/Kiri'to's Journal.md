@@ -7,4 +7,4 @@
 ![IMG_0061.jpeg](/img/user/Journal%20Notes/Kiri%E2%80%99to%20Journal/IMG_0061.jpeg)
 ![IMG_0058.jpeg](/img/user/Journal%20Notes/Kiri%E2%80%99to%20Journal/IMG_0058.jpeg)
 ![IMG_0062.jpeg](/img/user/Journal%20Notes/Kiri%E2%80%99to%20Journal/IMG_0062.jpeg)
-![Pasted image 20250614224500.jpg](/img/user/Pasted%20image%2020250614224500.jpg)
+![Pasted image 20250614224500.jpg](/img/user/Journal%20Notes/Kiri%E2%80%99to%20Journal/Pasted%20image%2020250614224500.jpg)

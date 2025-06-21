@@ -3,7 +3,7 @@
 ---
 
 # Maria Von Flytrapp
-![maria_von_flytrapp.Token.webp](/img/user/Voidbound%20token%20images/maria_von_flytrapp.Token.webp)
+![maria_von_flytrapp.Token.webp](/img/user/Assets/Voidbound%20token%20images/maria_von_flytrapp.Token.webp)
 
 Most leshys are peaceful creatures that focus their efforts on tending the natural region around them. While flytrap leshys do not leave their homes to pick fights, they relish the opportunity to attack intruders. While they rarely work together with other creatures, the aggressive creatures eagerly collaborate with others of their kind.  
   

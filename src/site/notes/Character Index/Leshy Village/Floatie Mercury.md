@@ -3,7 +3,7 @@
 ---
 
 # Floatie Mercury
-![floatie_mercury.Token.webp](/img/user/Voidbound%20token%20images/floatie_mercury.Token.webp)
+![floatie_mercury.Token.webp](/img/user/Assets/Voidbound%20token%20images/floatie_mercury.Token.webp)
 
 Enigmatic lotus leshys are wise guardians of secluded ponds and lakes. They spend most of their time in meditation as lotus flowers, sometimes for decades at a time. Although lotus leshys spend most of their time floating in solitary reflection, they do not shun the company of other creatures, and take humanoid form whenever they wish to speak. They find discussions of religion and philosophy particularly fascinating, and delight in fresh perspectives. Although they study deities of self-perfection and contemplation extensively, they do not revere such beings.
 

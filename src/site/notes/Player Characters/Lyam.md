@@ -3,11 +3,11 @@
 ---
 
 # Lyam
-![lyam.Token 1.webp](/img/user/Voidbound%20token%20images/lyam.Token%201.webp)
+![lyam.Token 1.webp](/img/user/Assets/Voidbound%20token%20images/lyam.Token%201.webp)
 Player Characters: [[Player Characters/Baccara Helleborus\|Baccara Helleborus]] [[Player Characters/En-Flambé\|En-Flambé]] 
 [[Player Characters/Keranos, Storm God\|Keranos, Storm God]] [[Player Characters/Kiri'to Zhwan\|Kiri'to Zhwan]] [[Player Characters/Lyam\|Lyam]] [[Player Characters/Moss de Marchante\|Moss de Marchante]]
 
-Faction: "[[Voidbound Isle/Factions/Avalon\|Avalon]]"
+Faction: "[[Factions/Avalon\|Avalon]]"
 Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 
 # **Lyam**  

@@ -3,8 +3,8 @@
 ---
 
 # Vanmark
-![vanmark.Token.webp](/img/user/Voidbound%20token%20images/vanmark.Token.webp)
-Faction: "[[Voidbound Isle/Factions/Avalon\|Avalon]]"
+![vanmark.Token.webp](/img/user/Assets/Voidbound%20token%20images/vanmark.Token.webp)
+Faction: "[[Factions/Avalon\|Avalon]]"
 Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 
 This grizzled, middle-aged, sunburned human has streaks of grey in his short hair and deep eyes that have seen much of the world, both good and evil. He humbly tends to the steeds, but any perceptive person can see that there is more to Vanmark than meets the eye.
