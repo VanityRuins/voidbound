@@ -12,4 +12,4 @@ Works for: "[[Character Index/Avalon NPCs/Captain Fairwell\|Captain Fairwell]]"
 
 # Moss de Marchante
 
-<iframe src="https://github.com/VanityRuins/voidbound/blob/1a185f4bb0f895c81e712014e64fcf7aac8f86d3/src/site/notes/Player%20Characters/Moss%20de%20Marchante%20-%20pf2e-remastered.pdf" width="700" height="1000"></iframe>
+<iframe src="https://app.box.com/embed/s/oosbzup4kp1hhmhkc3l3e3pqswc6tzyq?sortColumn=date" width="800" height="550" frameBorder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
